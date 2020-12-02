@@ -5,3 +5,4 @@
 4. Num-Py
 5. Statistics and Applications
 6. Linear Algebra and Applications
+7. Computational Graph and Linear Regression
